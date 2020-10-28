@@ -1,6 +1,8 @@
 # Power Platform
 Repositório de arquivos do curso de Power Platform da Microsoft que envolve Power BI, Power Apps, Power Automate e Power Virtual Agents da escola [Treinar](https://treinarminas.com.br/).
 
+<hr>
+
 # Aplicativos Power Apps
 ## AplicativoTreinar.msapp
 
