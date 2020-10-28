@@ -3,6 +3,15 @@ Repositório de arquivos do curso de Power Platform da Microsoft que envolve Pow
 
 <hr>
 
+# Arquivos Power BI
+## Exportação de Carros.xlsx
+
+<ul>
+<li>Arquivo fonte para criação de dashboard no Power BI.</li>
+</ul>
+
+<hr>
+
 # Aplicativos Power Apps
 ## AplicativoTreinar.msapp
 
